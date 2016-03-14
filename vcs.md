@@ -9,8 +9,8 @@
 - Базовые принципы разработки ПО в VCS
 - Ежедневный цикл работы
 
-## Статья
-- [Интерактивный курс Git How To](https://githowto.com/ru)
+## Курс
+- [Git How To](https://githowto.com/ru)
 
 ## Книга
 - [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2)
