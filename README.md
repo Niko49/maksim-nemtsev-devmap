@@ -1,16 +1,16 @@
 # Карта развития веб-разработчика
 
 **Каждый уважающий себя разработчик должен знать:**
-- [Архитектуру компьютера](architecture.md)
-- [Linux, командная строка Bash](linux.md)
-- [Типы данных](data_types.md)
-- [Функциональное программирование](functional_programming.md)
-- [Объектно-ориентированное программирование](oop.md)
-- [Системы управления версиями](vcs.md)
-- [Протокол HTTP](http.md)
+- [Архитектуру компьютера](sections/architecture.md)
+- [Linux, командная строка Bash](sections/linux.md)
+- [Типы данных](sections/data_types.md)
+- [Функциональное программирование](sections/functional_programming.md)
+- [Объектно-ориентированное программирование](sections/oop.md)
+- [Системы управления версиями](sections/vcs.md)
+- [Протокол HTTP](sections/http.md)
 - Тестирование (TDD, BDD)
 - Безопасность сайтов (XSS, SQL-Injection)
-- [Чтение книг](books.md)
+- [Чтение книг](sections/books.md)
 
 
 **Карта развития Back-end разработчика:**
