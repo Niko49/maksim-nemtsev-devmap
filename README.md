@@ -8,7 +8,7 @@
 - [Объектно-ориентированное программирование](sections/oop.md)
 - [Системы управления версиями](sections/vcs.md)
 - [Протокол HTTP](sections/http.md)
-- Тестирование (TDD, BDD)
+- [Тестирование](sections/test.md)
 - Безопасность сайтов (XSS, SQL-Injection)
 - [Чтение книг](sections/books.md)
 
