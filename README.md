@@ -9,7 +9,7 @@
 - [Системы управления версиями](sections/vcs.md)
 - [Протокол HTTP](sections/http.md)
 - [Тестирование](sections/test.md)
-- Безопасность сайтов (XSS, SQL-Injection)
+- [Безопасность сайтов](sections/security.md)
 - [Чтение книг](sections/books.md)
 
 
