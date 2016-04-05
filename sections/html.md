@@ -10,5 +10,5 @@
 
 ## Документации, курсы
 - [htmlbook](http://htmlbook.ru/)
-- [htmlacademy](https://htmlacademy.ru/)
+- [HTML academy](https://htmlacademy.ru/)
 - [Введение в schema.org](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
