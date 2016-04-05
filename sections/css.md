@@ -8,4 +8,4 @@
 
 ## Документации, курсы
 - [htmlbook](http://htmlbook.ru/)
-- [htmlacademy](https://htmlacademy.ru/)
+- [HTML academy](https://htmlacademy.ru/)
