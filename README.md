@@ -8,7 +8,7 @@
 - [Объектно-ориентированное программирование](sections/oop.md)
 - [HTML](sections/html.md)
 - [CSS](sections/css.md)
-- [Javascript](sections/javascipt.md)
+- [Javascript](sections/javascript.md)
 - [Системы управления версиями](sections/vcs.md)
 - [Протокол HTTP](sections/http.md)
 - [Тестирование](sections/test.md)
