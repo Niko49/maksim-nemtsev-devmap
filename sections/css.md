@@ -1,0 +1,10 @@
+#CSS
+
+Познакомиться с такими понятиями как:
+- Cтили
+- Cелекторы
+- Анимация
+
+## Документации, курсы
+- [htmlbook](http://htmlbook.ru/)
+- [htmlacademy](https://htmlacademy.ru/)

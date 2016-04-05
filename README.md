@@ -14,7 +14,7 @@
 
 **Карта развития Back-end разработчика:**
 - [Алгоритмы](sections/algorithms.md)
-- HTML, CSS, Javascript (Верстка)
+- [HTML, CSS, Javascript](sections/html-css-js.md)
 - Серверный язык программирования (PHP, Python, Ruby)
 - Паттерны программирования
 - Принципы программирования
@@ -27,10 +27,10 @@
 - Разворачивание проектов (Ansible, миграции, релизы)
 
 **Карта развития Front-end разработчика:**
-- HTML (верстка, HTML5, разметка, семантика)
-- CSS (верстка, стили, селекторы, анимации)
+- [HTML](sections/html.md)
+- [CSS](sections/css.md)
 - Адаптивность (Mobile first, RESS)
-- Javascript (основы)
+- [Javascript](sections/javascipt.md)
 - Javascript: библиотеки (jQuery, Underscore)
 - ECMAscript 6 (основы)
 - Препроцессоры CSS/Javascript (sass, less, coffeescript, typescript)
