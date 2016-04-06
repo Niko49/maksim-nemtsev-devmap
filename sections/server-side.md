@@ -11,7 +11,7 @@
 - Ruby
 
 Статьи
-- [Типы данных](sections/data_types.md)
-- [Функциональное программирование](sections/functional_programming.md)
-- [Объектно-ориентированное программирование](sections/oop.md)
-- [Тестирование](sections/test.md)
+- [Типы данных](data_types.md)
+- [Функциональное программирование](functional_programming.md)
+- [Объектно-ориентированное программирование](oop.md)
+- [Тестирование](test.md)
