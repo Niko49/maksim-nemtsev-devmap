@@ -8,6 +8,7 @@
 
 ## Статья
 - [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
+- [Руководство по установке Debian GNU/Linux](https://www.debian.org/releases/stable/i386/index.html.ru)
 
 ## Книги
 - Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)
