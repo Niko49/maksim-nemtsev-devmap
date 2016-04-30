@@ -22,7 +22,7 @@
 - [Принципы программирования](sections/principles.md)
 - Регулярные выражения (Квантификация, жадность, группировка)
 - [SQL](sections/sql.md)
-- Проектирование Баз Данных (Нормализация, Связи)
+- [Проектирование баз данных](sections/design_database.md)
 - Фреймворки (Laravel, Django, Ruby on Rails)
 - Пакетный менеджер (Composer, pip, gem)
 - Устройство веб-серверов и способы взаимодействия (CGI, FastCGI, event Loop)
