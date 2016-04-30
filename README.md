@@ -21,7 +21,7 @@
 - [Паттерны программирования](sections/patterns.md)
 - [Принципы программирования](sections/principles.md)
 - Регулярные выражения (Квантификация, жадность, группировка)
-- ANSI SQL99 (DDL, DML, DQL)
+- [SQL](sections/sql.md)
 - Проектирование Баз Данных (Нормализация, Связи)
 - Фреймворки (Laravel, Django, Ruby on Rails)
 - Пакетный менеджер (Composer, pip, gem)
