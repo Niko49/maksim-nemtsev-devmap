@@ -8,7 +8,7 @@
 - [Объектно-ориентированное программирование](sections/oop.md)
 - [HTML](sections/html.md)
 - [CSS](sections/css.md)
-- [Javascript](sections/javascript.md)
+- [JavaScript](sections/javascript.md)
 - [Системы управления версиями](sections/vcs.md)
 - [Протокол HTTP](sections/http.md)
 - [Тестирование](sections/test.md)
@@ -30,12 +30,14 @@
 
 **Карта развития Front-end разработчика:**
 - Адаптивность (Mobile first, RESS)
-- Javascript: библиотеки (jQuery, Underscore)
+- JavaScript: библиотеки (jQuery, Underscore)
 - ECMAscript 6 (основы)
-- Препроцессоры CSS/Javascript (sass, less, coffeescript, typescript)
-- Сборщик проектов (Gulp, Grunt)
-- Пакетный менеджер (Bower, Webpack)
-- CSS/JS Фреймворки (Bootstrap, AngularJS, Backbone)
+- Препроцессоры CSS (sass, less)
+- Препроцессоры JavaScript (BabelJS, CoffeeScript)
+- Сборщик проектов (Gulp, Grunt, Webpack)
+- Пакетный менеджер (Bower)
+- CSS Фреймворки (Bootstrap, Skeleton)
+- JavaScript Фреймворки (AngularJS, Backbone)
 
 **Карта развития DevOps разработчика:**
 - Администрирование UNIX систем
