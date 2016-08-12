@@ -12,5 +12,7 @@
 - События
 - DOM
 
-## Документация
+## Документации, книги
+- [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
 - [learn.javascript](https://learn.javascript.ru/)
+- [ECMAScript 6 features](https://github.com/lukehoban/es6features)
