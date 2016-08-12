@@ -15,9 +15,9 @@
 - Подзапросы
 
 ## Статьи
-- [Что такое SQL](https://ru.wikipedia.org/wiki/SQL)
-- [Схема базы данных](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-- [Представление базы данных]
+- [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL)
+- [Схема базы данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+- [Представление базы данных (wikipedia)]
 - [Представления в MySQL (habrahabr)](https://habrahabr.ru/post/47031/)
 - [Квалифицированный выбор при использовании предложений](http://www.sql.ru/docs/sql/u_sql/ch3.shtml#3.9)
 - [Полнотекстовый поиск и его возможности (habrahabr)](https://habrahabr.ru/post/40218/)
