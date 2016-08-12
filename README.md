@@ -7,7 +7,7 @@
 - [Типы данных](sections/data_types.md)
 - [Функциональное программирование](sections/functional_programming.md)
 - [Объектно-ориентированное программирование](sections/oop.md)
-- [HTML](sections/html.md)
+- [HTML & CSS](sections/html-css.md)
 - [CSS](sections/css.md)
 - [JavaScript](sections/javascript.md)
 - [Системы управления версиями](sections/vcs.md)
