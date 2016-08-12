@@ -13,6 +13,5 @@
 ## Книга
 - [Секреты хакеров. Безопасность Web-приложений - готовые решения (Джоел Скамбрэй, Майк Шема)](http://www.ozon.ru/reviews/1351090/)
 
-
 ## Статья
 - [Top 5 уязвимостей PHP безопасности](http://php-hack.ru/php_mysql/top_5_uyazvimostej_php_bezopasnosti/)

@@ -7,7 +7,6 @@
 - Разметка
 - Семантика
 
-
 ## Документации, курсы
 - [htmlbook](http://htmlbook.ru/)
 - [HTML academy](https://htmlacademy.ru/)
