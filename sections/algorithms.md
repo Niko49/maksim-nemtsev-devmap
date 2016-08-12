@@ -13,3 +13,6 @@
 - [Алгоритмы поиска в строке (habrahabr)](https://habrahabr.ru/post/111449/)
 - [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса (habrahabr)](https://habrahabr.ru/company/yandex/blog/208716/)
 - [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
+
+## Книга
+- [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
