@@ -1,6 +1,7 @@
 # Карта развития веб-разработчика
 
 **Каждый уважающий себя разработчик должен знать:**
+- [Английский язык](sections/english.md)
 - [Архитектуру компьютера](sections/architecture.md)
 - [Linux, командная строка Bash](sections/linux.md)
 - [Типы данных](sections/data_types.md)
