@@ -8,7 +8,6 @@
 - [Функциональное программирование](sections/functional_programming.md)
 - [Объектно-ориентированное программирование](sections/oop.md)
 - [HTML & CSS](sections/html-css.md)
-- [CSS](sections/css.md)
 - [JavaScript](sections/javascript.md)
 - [Системы управления версиями](sections/vcs.md)
 - [Протокол HTTP](sections/http.md)
