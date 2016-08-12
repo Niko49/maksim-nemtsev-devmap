@@ -20,7 +20,7 @@
 - [Серверные языки программирования](sections/server-side.md)
 - [Паттерны программирования](sections/patterns.md)
 - [Принципы программирования](sections/principles.md)
-- Регулярные выражения (Квантификация, жадность, группировка)
+- [Регулярные выражения](sections/regular-expressions.md)
 - [SQL](sections/sql.md)
 - [Проектирование баз данных](sections/design_database.md)
 - Фреймворки (Laravel, Django, Ruby on Rails)
