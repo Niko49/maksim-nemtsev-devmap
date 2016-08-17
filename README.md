@@ -23,7 +23,7 @@
 - [Регулярные выражения](sections/regular-expressions.md)
 - [SQL](sections/sql.md)
 - [Проектирование баз данных](sections/design_database.md)
-- Фреймворки (Laravel, Django, Ruby on Rails)
+- [Фреймворки](sections/frameworks.md)
 - Пакетный менеджер (Composer, pip, gem)
 - Устройство веб-серверов и способы взаимодействия (CGI, FastCGI, event Loop)
 - Разворачивание проектов (Ansible, миграции, релизы)
