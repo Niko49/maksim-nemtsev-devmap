@@ -24,7 +24,7 @@
 - [SQL](sections/sql.md)
 - [Проектирование баз данных](sections/design_database.md)
 - [Фреймворки](sections/frameworks.md)
-- Пакетный менеджер (Composer, pip, gem)
+- [Пакетный менеджер](sections/dependency-manager.md)
 - Устройство веб-серверов и способы взаимодействия (CGI, FastCGI, event Loop)
 - Разворачивание проектов (Ansible, миграции, релизы)
 
