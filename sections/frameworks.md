@@ -13,8 +13,6 @@
 - Ruby:
   - [Ruby on Rails](http://rubyonrails.org/)
 
-
-
 ## Статьи
 - [Фреймворк (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
 - [Не учите фреймворки, учите архитектуру (habrahabr)](https://habrahabr.ru/post/253297/)
