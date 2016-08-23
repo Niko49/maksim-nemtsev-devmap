@@ -25,7 +25,7 @@
 - [Проектирование баз данных](sections/design_database.md)
 - [Фреймворки](sections/frameworks.md)
 - [Пакетный менеджер](sections/dependency-manager.md)
-- [Устройство веб-серверов и способы взаимодействия](webserver.md)
+- [Устройство веб-серверов и способы взаимодействия](sections/webserver.md)
 - Разворачивание проектов (Ansible, миграции, релизы)
 
 **Карта развития Front-end разработчика:**
