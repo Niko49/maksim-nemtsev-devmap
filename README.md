@@ -26,7 +26,7 @@
 - [Фреймворки](sections/frameworks.md)
 - [Пакетный менеджер](sections/dependency-manager.md)
 - [Устройство веб-серверов и способы взаимодействия](sections/webserver.md)
-- Разворачивание проектов (Ansible, миграции, релизы)
+- [Развертывание проектов](sections/deploy.md)
 
 **Карта развития Front-end разработчика:**
 - Адаптивность (Mobile first, RESS)
