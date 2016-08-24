@@ -29,7 +29,7 @@
 - [Развертывание проектов](sections/deploy.md)
 
 **Карта развития Front-end разработчика:**
-- Адаптивность (Mobile first, RESS)
+- [Адаптивный/отзывчивый веб-дизайн](sections/responsive.md)
 - JavaScript: библиотеки (jQuery, Underscore)
 - ECMAscript 6 (основы)
 - Препроцессоры CSS (sass, less)
