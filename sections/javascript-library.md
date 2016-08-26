@@ -11,3 +11,6 @@
 - [WOW - анимация при прокрутки страницы](http://mynameismatthieu.com/WOW/)
 - [Moment - Работа с датой и временем](http://momentjs.com/)
 - [Mocha - написание тестов](https://mochajs.org/)
+
+
+Список наиболее популярных библиотек есть на [Javascripting](https://www.javascripting.com/)
