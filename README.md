@@ -30,7 +30,7 @@
 
 **Карта развития Front-end разработчика:**
 - [Адаптивный/отзывчивый веб-дизайн](sections/responsive.md)
-- JavaScript: библиотеки (jQuery, Underscore)
+- [JavaScript: библиотеки](sections/javascript-library.md)
 - ECMAscript 6 (основы)
 - Препроцессоры CSS (sass, less)
 - Препроцессоры JavaScript (BabelJS, CoffeeScript)
