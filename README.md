@@ -32,7 +32,7 @@
 - [Адаптивный/отзывчивый веб-дизайн](sections/responsive.md)
 - [JavaScript: библиотеки](sections/javascript-library.md)
 - [Препроцессоры CSS](sections/preprocessor.md)
-- Сборщик проектов (Gulp, Grunt, Webpack)
+- [Сборщик проектов](sections/task-runner.md)
 - Пакетный менеджер (Bower)
 - CSS Фреймворки (Bootstrap, Skeleton)
 - JavaScript Фреймворки (ReactJS, AngularJS, Backbone)
