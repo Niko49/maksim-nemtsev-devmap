@@ -36,6 +36,7 @@
 - Пакетный менеджер (Bower)
 - CSS Фреймворки (Bootstrap, Skeleton)
 - JavaScript Фреймворки (ReactJS, AngularJS, Backbone)
+- Single Page Application
 
 **Карта развития DevOps разработчика:**
 - Администрирование UNIX систем
