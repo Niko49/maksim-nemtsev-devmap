@@ -10,6 +10,6 @@
 
 ## Документации, статьи
 - [Sass, Scss](http://sass-lang.com/)
-- [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass.](https://sass-guidelin.es/ru/)
+- [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru/)
 - [Less](http://lesscss.org/)
 - [Stylus](http://stylus-lang.com/)

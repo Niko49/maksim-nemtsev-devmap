@@ -31,7 +31,7 @@
 **Карта развития Front-end разработчика:**
 - [Адаптивный/отзывчивый веб-дизайн](sections/responsive.md)
 - [JavaScript: библиотеки](sections/javascript-library.md)
-- [Препроцессоры CSS](sections/preprocessor.md)
+- [Препроцессоры CSS](sections/preprocessor-css.md)
 - [Сборщик проектов](sections/task-runner.md)
 - Пакетный менеджер (Bower)
 - CSS Фреймворки (Bootstrap, Skeleton)
