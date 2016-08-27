@@ -31,12 +31,12 @@
 **Карта развития Front-end разработчика:**
 - [Адаптивный/отзывчивый веб-дизайн](sections/responsive.md)
 - [JavaScript: библиотеки](sections/javascript-library.md)
-- Препроцессоры CSS (sass, less)
+- [Препроцессоры CSS](sections/preprocessor.md)
 - Препроцессоры JavaScript (BabelJS, CoffeeScript)
 - Сборщик проектов (Gulp, Grunt, Webpack)
 - Пакетный менеджер (Bower)
 - CSS Фреймворки (Bootstrap, Skeleton)
-- JavaScript Фреймворки (AngularJS, Backbone)
+- JavaScript Фреймворки (ReactJS, AngularJS, Backbone)
 
 **Карта развития DevOps разработчика:**
 - Администрирование UNIX систем
