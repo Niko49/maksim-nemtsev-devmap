@@ -32,7 +32,6 @@
 - [Адаптивный/отзывчивый веб-дизайн](sections/responsive.md)
 - [JavaScript: библиотеки](sections/javascript-library.md)
 - [Препроцессоры CSS](sections/preprocessor.md)
-- Препроцессоры JavaScript (BabelJS, CoffeeScript)
 - Сборщик проектов (Gulp, Grunt, Webpack)
 - Пакетный менеджер (Bower)
 - CSS Фреймворки (Bootstrap, Skeleton)
