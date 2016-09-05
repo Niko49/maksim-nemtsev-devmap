@@ -33,7 +33,7 @@
 - [JavaScript: библиотеки](sections/javascript-library.md)
 - [Препроцессоры CSS](sections/preprocessor-css.md)
 - [Сборщик проектов](sections/task-runner.md)
-- Пакетный менеджер (Bower)
+- [Пакетный менеджер](sections/frontend-dependency-manager.md)
 - CSS Фреймворки (Bootstrap, Skeleton)
 - JavaScript Фреймворки (ReactJS, AngularJS, Backbone)
 - Single Page Application
