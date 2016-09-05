@@ -6,5 +6,5 @@
 - [npm](https://www.npmjs.com/)
 
 ## Статьи
-- [Пакетный менеджер (Backend)](sections/backend-dependency-manager.md)
+- [Пакетный менеджер (Backend)](backend-dependency-manager.md)
 - [npm для простых смертных (habrahabr)](https://habrahabr.ru/post/243335/)
