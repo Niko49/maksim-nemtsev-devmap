@@ -35,7 +35,7 @@
 - [Сборщик проектов](sections/task-runner.md)
 - [Пакетный менеджер](sections/frontend-dependency-manager.md)
 - [CSS Фреймворки](sections/css-frameworks.md)
-- JavaScript Фреймворки (ReactJS, AngularJS, Backbone)
+- [JavaScript Фреймворки](sections/javascript-frameworks.md)
 - Single Page Application
 
 **Карта развития DevOps разработчика:**
