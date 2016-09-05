@@ -34,8 +34,8 @@
 - [Препроцессоры CSS](sections/preprocessor-css.md)
 - [Сборщик проектов](sections/task-runner.md)
 - [Пакетный менеджер](sections/frontend-dependency-manager.md)
-- [CSS Фреймворки](sections/css-frameworks.md)
-- [JavaScript Фреймворки](sections/javascript-frameworks.md)
+- [CSS фреймворки](sections/css-frameworks.md)
+- [JavaScript фреймворки](sections/javascript-frameworks.md)
 - [Одностраничное приложение](sections/spa.md)
 
 **Карта развития DevOps разработчика:**
