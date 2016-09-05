@@ -2,7 +2,7 @@
 
 ## Цель
 Познакомится с основными элементами, использующимися при построении SPA:
-- [JavaScript Фреймворки](sections/javascript-frameworks.md)
+- [JavaScript Фреймворки](javascript-frameworks.md)
 - Роутинг
 - Шаблонизатор
 - API, например REST
