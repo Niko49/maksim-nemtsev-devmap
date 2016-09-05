@@ -30,13 +30,13 @@
 
 **Карта развития Front-end разработчика:**
 - [Адаптивный/отзывчивый веб-дизайн](sections/responsive.md)
-- [JavaScript: библиотеки](sections/javascript-library.md)
+- [JavaScript библиотеки](sections/javascript-library.md)
 - [Препроцессоры CSS](sections/preprocessor-css.md)
 - [Сборщик проектов](sections/task-runner.md)
 - [Пакетный менеджер](sections/frontend-dependency-manager.md)
 - [CSS Фреймворки](sections/css-frameworks.md)
 - [JavaScript Фреймворки](sections/javascript-frameworks.md)
-- Single Page Application
+- [Одностраничное приложение](sections/spa.md)
 
 **Карта развития DevOps разработчика:**
 - Администрирование UNIX систем
