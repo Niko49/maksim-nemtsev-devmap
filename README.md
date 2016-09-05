@@ -34,7 +34,7 @@
 - [Препроцессоры CSS](sections/preprocessor-css.md)
 - [Сборщик проектов](sections/task-runner.md)
 - [Пакетный менеджер](sections/frontend-dependency-manager.md)
-- CSS Фреймворки (Bootstrap, Skeleton)
+- [CSS Фреймворки](sections/css-frameworks.md)
 - JavaScript Фреймворки (ReactJS, AngularJS, Backbone)
 - Single Page Application
 
