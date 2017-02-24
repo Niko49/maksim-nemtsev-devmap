@@ -367,17 +367,17 @@
 ### Фреймворки [&uarr;](#Содержание)
 Для разных языков программирования существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
 
-- ( ) PHP фреймворки:
+- [ ] PHP фреймворки:
     - [ ] [Slim microframework](http://www.slimframework.com/)
     - [ ] [Laravel](https://laravel.com/)
     - [ ] [Symfony](https://symfony.com/)
     - [ ] [Yii](http://www.yiiframework.com/)
 
-- ( ) Python фреймворки:
+- [ ] Python фреймворки:
     - [ ] [Django](https://www.djangoproject.com/)
     - [ ] [Flask](http://flask.pocoo.org/)
 
-- ( ) Ruby фреймворки:
+- [ ] Ruby фреймворки:
     - [ ] [Ruby on Rails](http://rubyonrails.org/)
 
 - [ ] Статьи:
@@ -387,10 +387,10 @@
 
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Познакомиться с пакетными менеджерами:
-    - ( ) Для PHP - [composer](https://getcomposer.org/)
-    - ( ) Для Python - [pip](https://pypi.python.org/pypi/pip)
-    - ( ) Для Ruby - [gem](https://rubygems.org/)
-    - ( ) Для Javascript - [npm](https://www.npmjs.com/)
+    - [ ] Для PHP - [composer](https://getcomposer.org/)
+    - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
+    - [ ] Для Ruby - [gem](https://rubygems.org/)
+    - [ ] Для Javascript - [npm](https://www.npmjs.com/)
 
 - [ ] Статьи:
     - [ ] [Composer — менеджер зависимостей для PHP (habrahabr)](https://habrahabr.ru/post/145946/)
