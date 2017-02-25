@@ -8,7 +8,6 @@
     - [ ] [Linux, командная строка Bash](#linux-командная-строка-bash-)
     - [ ] [Типы данных](#Типы-данных-)
     - [ ] [HTML & CSS](#html--css-)
-    - [ ] [JavaScript](#javascript-)
     - [ ] [Объектно-ориентированное программирование](#Объектно-ориентированное-программирование-)
     - [ ] [Функциональное программирование](#Функциональное-программирование-)
     - [ ] [Системы управления версиями](#Системы-управления-версиями-)
@@ -30,6 +29,7 @@
     - [ ] [Развертывание проектов](#Развертывание-проектов-)
 
 - [**Карта развития Front-end разработчика:**](#Карта-развития-front-end-разработчика-)
+    - [ ] [JavaScript](#javascript-)
     - [ ] [Адаптивный/отзывчивый веб-дизайн](#Адаптивныйотзывчивый-веб-дизайн-)
     - [ ] [JavaScript библиотеки](#javascript-библиотеки-)
     - [ ] [Препроцессоры CSS](#Препроцессоры-css-)
@@ -130,24 +130,6 @@
     - [ ] [htmlbook](http://htmlbook.ru/)
     - [ ] [HTML academy](https://htmlacademy.ru/)
     - [ ] [Введение в schema.org (yandex)](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
-
-
-### JavaScript [&uarr;](#Содержание)
-- [ ] Познакомиться с такими понятиями как:
-    - [ ] Переменные
-    - [ ] [Типы данных](#Типы-данных-)
-    - [ ] Функции
-    - [ ] Рекурсия
-    - [ ] Замыкания
-    - [ ] Область видимости
-    - [ ] Объекты
-    - [ ] События
-    - [ ] DOM
-
-- [ ] Документации, книги:
-    - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
-    - [ ] [learn.javascript](https://learn.javascript.ru/)
-    - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 
 ### Объектно-ориентированное программирование [&uarr;](#Содержание)
@@ -429,6 +411,24 @@
 
 
 ## Карта развития Front-end разработчика [&uarr;](#Содержание)
+
+### JavaScript [&uarr;](#Содержание)
+- [ ] Познакомиться с такими понятиями как:
+    - [ ] Переменные
+    - [ ] [Типы данных](#Типы-данных-)
+    - [ ] Функции
+    - [ ] Рекурсия
+    - [ ] Замыкания
+    - [ ] Область видимости
+    - [ ] Объекты
+    - [ ] События
+    - [ ] DOM
+
+- [ ] Документации, книги:
+    - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
+    - [ ] [learn.javascript](https://learn.javascript.ru/)
+    - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
+
 
 ### Адаптивный/отзывчивый веб-дизайн [&uarr;](#Содержание)
 - [ ] Познакомиться с понятиями:
