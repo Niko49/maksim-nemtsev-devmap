@@ -496,6 +496,7 @@
 - [ ] Список пакетных менеджеры:
     - [ ] [Bower](https://bower.io/)
     - [ ] [npm](https://www.npmjs.com/)
+    - [ ] [Yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
     - [ ] [Пакетный менеджер (Backend)](backend-dependency-manager.md)
