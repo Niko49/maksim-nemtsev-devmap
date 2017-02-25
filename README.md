@@ -368,7 +368,7 @@
 
 
 ### Пакетный менеджер [&uarr;](#Содержание)
-- [ ] Познакомиться с пакетными менеджерами:
+- [ ] Список пакетных менеджеров:
     - [ ] Для PHP - [composer](https://getcomposer.org/)
     - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
     - [ ] Для Ruby - [gem](https://rubygems.org/)
