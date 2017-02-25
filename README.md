@@ -513,11 +513,13 @@
 
 
 ### JavaScript фреймворки [&uarr;](#Содержание)
-- [ ] Список фреймворков:
-    - [ ] [ReactJS](https://facebook.github.io/react/)
-    - [ ] [AngularJS](https://angular.io/)
-    - [ ] [Backbone](http://backbonejs.org/)
-    - [ ] [Ember](http://emberjs.com/)
+Существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
+
+Список фреймворков:
+- [ ] [ReactJS](https://facebook.github.io/react/)
+- [ ] [AngularJS](https://angular.io/)
+- [ ] [Backbone](http://backbonejs.org/)
+- [ ] [Ember](http://emberjs.com/)
 
 
 ### Одностраничное приложение [&uarr;](#Содержание)
