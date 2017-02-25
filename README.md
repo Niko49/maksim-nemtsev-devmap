@@ -408,6 +408,8 @@
     - [ ] [Версионная миграция структуры базы данных: основные подходы (habrahabr)](https://habrahabr.ru/post/121265/)
     - [ ] [Нумерация версий ПО для новичков и не только (habrahabr)](https://habrahabr.ru/post/119400/)
     - [ ] [Automated git deployments from Bitbucket](http://jonathannicol.com/blog/2013/11/19/automated-git-deployments-from-bitbucket/)
+    - [ ] [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
+    - [ ] [Vagrant для малышей, или как на Windows легко получить настроенный сервер для разработки веб-приложений](https://habrahabr.ru/post/251529/)
 
 
 ## Карта развития Front-end разработчика [&uarr;](#Содержание)
