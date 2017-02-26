@@ -282,6 +282,9 @@
     - [ ] [Шпаргалка по шаблонам проектирования (habrahabr)](https://habrahabr.ru/post/210288/)
     - [ ] [Справочник «Паттерны проектирования»](http://design-pattern.ru/)
 
+- [ ] Видео:
+    - [ ] [Webinar: Patterns (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
+
 - [ ] Книга:
     - [ ] [Приемы объектно-ориентированного проектирования. Паттерны проектирования (Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссилес.)](http://www.ozon.ru/context/detail/id/2457392/)
 
