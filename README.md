@@ -320,6 +320,7 @@
     - [ ] [Шпаргалка по шаблонам проектирования (habrahabr)](https://habrahabr.ru/post/210288/)
     - [ ] [Справочник «Паттерны проектирования»](http://design-pattern.ru/)
     - [ ] [Design Patterns for Humans (Github)](https://github.com/kamranahmedse/design-patterns-for-humans)
+    - [ ] [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
 - [ ] Видео:
     - [ ] [Webinar: Patterns (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
