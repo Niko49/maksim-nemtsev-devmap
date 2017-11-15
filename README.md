@@ -541,7 +541,7 @@
     - [ ] [Less](http://lesscss.org/)
     - [ ] [Stylus](http://stylus-lang.com/)
 
-- [ ] Сытатьи:
+- [ ] Статьи:
     - [ ] [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru/)
 
 ---
