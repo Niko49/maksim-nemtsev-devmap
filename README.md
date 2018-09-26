@@ -492,6 +492,7 @@
 - [ ] Документации, книги:
     - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
     - [ ] [learn.javascript](https://learn.javascript.ru/)
+    - [ ] [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
     - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 ---
