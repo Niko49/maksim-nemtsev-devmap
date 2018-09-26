@@ -432,7 +432,7 @@
     - [ ] Для PHP - [composer](https://getcomposer.org/)
     - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
     - [ ] Для Ruby - [bundler](http://bundler.io/)
-    - [ ] Для Javascript - [npm](https://www.npmjs.com/)
+    - [ ] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
     - [ ] [Composer — менеджер зависимостей для PHP (habrahabr)](https://habrahabr.ru/post/145946/)
