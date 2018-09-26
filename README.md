@@ -144,6 +144,7 @@
 
 - [ ] Документации, курсы:
     - [ ] [htmlbook](http://htmlbook.ru/)
+    - [ ] [MDN](https://developer.mozilla.org/en-US/)
     - [ ] [HTML academy](https://htmlacademy.ru/)
     - [ ] [Введение в schema.org (yandex)](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
 
@@ -431,7 +432,7 @@
     - [ ] Для PHP - [composer](https://getcomposer.org/)
     - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
     - [ ] Для Ruby - [bundler](http://bundler.io/)
-    - [ ] Для Javascript - [npm](https://www.npmjs.com/)
+    - [ ] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
     - [ ] [Composer — менеджер зависимостей для PHP (habrahabr)](https://habrahabr.ru/post/145946/)
@@ -491,6 +492,7 @@
 - [ ] Документации, книги:
     - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
     - [ ] [learn.javascript](https://learn.javascript.ru/)
+    - [ ] [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
     - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 ---
