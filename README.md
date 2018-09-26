@@ -144,6 +144,7 @@
 
 - [ ] Документации, курсы:
     - [ ] [htmlbook](http://htmlbook.ru/)
+    - [ ] [MDN](https://developer.mozilla.org/en-US/)
     - [ ] [HTML academy](https://htmlacademy.ru/)
     - [ ] [Введение в schema.org (yandex)](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
 
