@@ -517,7 +517,7 @@
 
 Список библиотек:
 - [ ] [jQuery](https://jquery.com/)
-- [ ] [ReactJS](https://facebook.github.io/react/)
+- [ ] [ReactJS](https://reactjs.org/)
 - [ ] [Underscore - набор полезных функций](http://underscorejs.org/)
 - [ ] [Modernizr - обнаруживает HTML5 и CSS3 функции в браузере пользователя](https://modernizr.com/)
 - [ ] [Babel - компилятор для написания JavaScript следующего поколения](https://babeljs.io/)
