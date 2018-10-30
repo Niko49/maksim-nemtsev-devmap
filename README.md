@@ -591,7 +591,7 @@
 
 Список фреймворков:
 - [ ] [ReactJS](https://facebook.github.io/react/)
-- [ ] [AngularJS](https://angular.io/)
+- [ ] [Angular](https://angular.io/)
 - [ ] [Backbone](http://backbonejs.org/)
 - [ ] [Ember](http://emberjs.com/)
 
