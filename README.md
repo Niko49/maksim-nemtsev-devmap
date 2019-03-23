@@ -75,16 +75,18 @@
 ---
 
 ### Английский язык [&uarr;](#Содержание)
-**Цель** - развить навык свободного чтения на английском языке.
-
 **Зачем** - большинство лучших курсов, справочных и учебных материалов доступно именно на английском языке. Если возникают трудности, то со знанием английского языка выше шансы найти ответ во всемирной паутине. Также если хотите работать в крутой престижной кампании, то без английского никак.
 
-- [ ] Ресурсы (Не обязательно выбирать все ресурсы, выберите или найдите то, что вам больше нравится):
+- Полезные ресурсы:
     - [ ] [Duolingo](https://www.duolingo.com/)
     - [ ] [Lingualeo](https://lingualeo.com/)
     - [ ] [Babadum](https://babadum.com/)
-    - [ ] [Anki](http://ankisrs.net/) программа для облегчения запоминания слов
-    - [ ] [Medium](https://medium.com/) блог-платформа, читать и писать статьи
+    - [ ] [Anki](http://ankisrs.net/) и карточки [4000 Essential English Words (all books) [en-en] M4R4M](https://ankiweb.net/shared/info/1898344648)
+    - [ ] [Techrocks](https://techrocks.ru) очень много статей переведенных с английского
+    - [ ] [English e-Reader](https://english-e-reader.net/) адаптированные книги на английском
+    - [ ] [British council](https://learnenglish.britishcouncil.org/) очень много полезной и структурированной информации для изучения
+    - [ ] [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/) тренеровка темпа и скорости речи, чтобы звучать более естественно
+    - [ ] [Engoo Daily news](https://engoo.com/app/daily-news) статьи на английском с разбивкой по уровням
 
 ---
 
