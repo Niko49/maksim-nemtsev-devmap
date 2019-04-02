@@ -104,9 +104,9 @@
 - [ ] Ресурсы:
     - [ ] [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash)
     - [ ] [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
-    - [ ] [Статья: Руководство по установке Debian GNU/Linux](https://www.debian.org/releases/stable/i386/index.html.ru)
     - [ ] [Книга: Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](http://www.ozon.ru/context/detail/id/2419365/)
     - [ ] [Книга: Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/)
+    - [ ] [Книга: Advanced Programming in the UNIX Environment (Richard Stevens)](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
 
 ---
 
@@ -298,6 +298,10 @@
 - [ ] Книга:
     - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+
+- [ ] Ресурсы:
+    - [ ] [HackerRank](https://www.hackerrank.com/)
+    - [ ] [Codewars](https://www.codewars.com/)
 
 ---
 
