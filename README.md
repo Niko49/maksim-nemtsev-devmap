@@ -85,7 +85,7 @@
     - [ ] [Techrocks](https://techrocks.ru) очень много статей переведенных с английского
     - [ ] [English e-Reader](https://english-e-reader.net/) адаптированные книги на английском
     - [ ] [British council](https://learnenglish.britishcouncil.org/) очень много полезной и структурированной информации для изучения
-    - [ ] [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/) тренеровка темпа и скорости речи, чтобы звучать более естественно
+    - [ ] [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/) тренировка темпа и скорости речи, чтобы звучать более естественно
     - [ ] [Engoo Daily news](https://engoo.com/app/daily-news) статьи на английском с разбивкой по уровням
 
 ---
@@ -295,7 +295,7 @@
     - [ ] [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса (habrahabr)](https://habrahabr.ru/company/yandex/blog/208716/)
     - [ ] [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
 
-- [ ] Книга:
+- [ ] Книги:
     - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
 
@@ -597,7 +597,7 @@
 Существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
 
 Список фреймворков:
-- [ ] [AngularJS](https://angular.io/)
+- [ ] [Angular](https://angular.io/)
 - [ ] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
 - [ ] [Backbone](http://backbonejs.org/)
 - [ ] [Ember](http://emberjs.com/)
