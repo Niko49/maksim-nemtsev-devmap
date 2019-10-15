@@ -87,6 +87,7 @@
     - [ ] [British council](https://learnenglish.britishcouncil.org/) очень много полезной и структурированной информации для изучения
     - [ ] [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/) тренировка темпа и скорости речи, чтобы звучать более естественно
     - [ ] [Engoo Daily news](https://engoo.com/app/daily-news) статьи на английском с разбивкой по уровням
+    - [ ] [YouGlish](https://youglish.com) поиск произношения слова или короткой фразы в Youtube
 
 ---
 
