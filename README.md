@@ -303,6 +303,7 @@
 - [ ] Ресурсы:
     - [ ] [HackerRank](https://www.hackerrank.com/)
     - [ ] [Codewars](https://www.codewars.com/)
+    - [ ] [LeetCode](https://leetcode.com/)
 
 ---
 
