@@ -103,7 +103,7 @@
 **Цель** - понять как работают операционные системы. Научиться базовому администрированию.
 
 - [ ] Ресурсы:
-    - [ ] [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash)
+    - [ ] [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000)
     - [ ] [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
     - [ ] [Книга: Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](http://www.ozon.ru/context/detail/id/2419365/)
     - [ ] [Книга: Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/)
@@ -225,7 +225,7 @@
     - [ ] [HTTP ответ](http://citforum.ru/internet/cgi_tut/spns.shtml)
 
 - [ ] Курс:
-    - [ ] [Протокол HTTP (Hexlet)](https://ru.hexlet.io/courses/http_protocol)
+    - [ ] [Протокол HTTP (Hexlet)](https://ru.hexlet.io/courses/http_protocol?ref=62000)
 
 ---
 
@@ -394,8 +394,8 @@
     - [ ] [Полнотекстовый поиск и его возможности (habrahabr)](https://habrahabr.ru/post/40218/)
 
 - [ ] Курсы:
-    - [ ] [Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl)
-    - [ ] [Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql)
+    - [ ] [Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl?ref=62000)
+    - [ ] [Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql?ref=62000)
 
 ---
 
